@@ -1,7 +1,9 @@
 package src;
+
 public interface Caja {
     
-    public void atenderClientes();
+    void crearCaja();
+    void atenderClientes();
     
 }
 
